@@ -1,0 +1,16 @@
+#matrixDetails {
+    border: 2px solid #a1a1a1;
+    padding: 10px;
+    background: #FFFFCC;
+    margin: 0px auto;
+    border-radius: 20px;
+    width: 80%;
+}
+
+#myTable table, th {
+    padding: 2px;
+    background: #ccc;
+    margin: 0px auto;
+    border: 2px solid #a1a1a1;
+    border-radius: 7px;
+}
